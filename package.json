@@ -30,7 +30,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "npm start && npm run server --prefix ./backendz"
+    "dev": "npm run server --prefix ./backendz"
   },
   "eslintConfig": {
     "extends": [
