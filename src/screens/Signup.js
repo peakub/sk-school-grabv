@@ -11,7 +11,7 @@ export default function Signup() {
             alert("Please enter a 10-digit phone number");
             return;
         }
-        const response = await fetch("http://localhost:8080/api/creatuser", {
+        const response = await fetch("https://sk-school-grabv.onrender.com/api/creatuser", {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
