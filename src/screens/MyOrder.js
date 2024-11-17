@@ -7,7 +7,7 @@ export default function MyOrder() {
 
     const fetchMyOrder = async () => {
         console.log(localStorage.getItem('userEmail'))
-        await fetch("https://sk-school-grabv.onrender.com/api/myOrderData", {
+        await fetch("https://localhost:8080/api/myOrderData", {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'

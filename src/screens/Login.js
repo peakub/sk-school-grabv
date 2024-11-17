@@ -6,7 +6,7 @@ export default function Login() {
     let navigate = useNavigate()
     const handleSubmit = async (e) => {
         e.preventDefault();
-        const response = await fetch("https://sk-school-grabv.onrender.com/api/loginuser", {
+        const response = await fetch("https://localhost:8080/api/loginuser", {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
