@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sk-school-grab/static/css/main.385af561.css",
+    "main.js": "/sk-school-grab/static/js/main.25a063b0.js",
+    "static/js/592.9ea14901.chunk.js": "/sk-school-grab/static/js/592.9ea14901.chunk.js",
+    "index.html": "/sk-school-grab/index.html",
+    "main.385af561.css.map": "/sk-school-grab/static/css/main.385af561.css.map",
+    "main.25a063b0.js.map": "/sk-school-grab/static/js/main.25a063b0.js.map",
+    "592.9ea14901.chunk.js.map": "/sk-school-grab/static/js/592.9ea14901.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385af561.css",
+    "static/js/main.25a063b0.js"
+  ]
+}
